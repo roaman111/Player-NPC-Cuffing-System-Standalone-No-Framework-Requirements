@@ -1,21 +1,9 @@
 # Player-NPC-Cuffing-System-Standalone-No-Framework-Requirements
 
+https://github.com/user-attachments/assets/8c64ac8a-54e4-4479-9ae5-56cbc13c0765
+
 FiveM Handcuff Script
 This script provides a straightforward handcuffing system for FiveM roleplay servers. It supports cuffing and uncuffing nearby players and NPCs, complete with animations, props, and control restrictions to simulate being restrained.
-
-Customization
-All key customization options — including cuff distance, animation timing, control disables, keybindings, and prop settings — have been moved into a dedicated file: client_customise_ME.lua.
-This makes it easy for server developers or admins to tweak the script behavior without diving into the main code logic. Simply open that file and adjust values like:
-
-CUFF_DISTANCE — how close you must be to cuff someone
-
-Animation dictionary and names for cuff, idle, and uncuff
-
-Handcuff prop model and bone attachment settings
-
-Disabled controls while cuffed
-
-Keybinding for cuffing command
 
 Keeping config separate makes upgrading or integrating this script simpler and cleaner.
 
@@ -53,7 +41,4 @@ Modify client_customise_ME.lua to fit your server preferences.
 Start the resource and enjoy handcuffing!
 
 
-
-
-https://github.com/user-attachments/assets/8c64ac8a-54e4-4479-9ae5-56cbc13c0765
 
