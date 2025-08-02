@@ -51,3 +51,9 @@ Ensure your server triggers the cuff toggle events properly (usually handled in 
 Modify client_customise_ME.lua to fit your server preferences.
 
 Start the resource and enjoy handcuffing!
+
+
+
+
+https://github.com/user-attachments/assets/8c64ac8a-54e4-4479-9ae5-56cbc13c0765
+
